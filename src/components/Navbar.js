@@ -1,4 +1,4 @@
-function Navbar() {
+let Navbar = () => {
     return (
         <nav>
             <h1>Perfumy</h1>

@@ -1,4 +1,4 @@
-function About() {
+let About = () => {
     return (
         <div style={{ textAlign: 'center' }}>
             <div className="about" style={{ marginTop: '10px', textAlign: 'center' }}>

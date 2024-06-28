@@ -1,4 +1,4 @@
-function Footer() {
+let Footer = () => {
     return (
         <footer>
             <div className="contact">
